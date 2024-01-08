@@ -29,9 +29,7 @@ Here are a few of the programming languages and technologies I'm proficient in:
 
 ## Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danmesfin&count_private=true&show_icons=true&theme=radical)](https://github.com/danmesfin/github-readme-stats)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danmesfin&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&langs_count=5&theme=tokyonight)]()
 
 
