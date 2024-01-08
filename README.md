@@ -17,11 +17,11 @@ programming languages and technologies I'm proficient in:
  [Visit my website](https://danielmesfin.com)
 
 ## My Stats
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danmesfin&count_private=true&theme=tokyonight&showicons=true)]()
-
-([![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&langs_count=5&theme=tokyonight)]() -->
+<!--([![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&langs_count=5&theme=tokyonight)]() -->
 
 <a href="https://github.com/danmesfin/github-stats">
 <img src="https://github.com/danmesfin/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/danmesfin/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danmesfin&count_private=true&theme=tokyonight&showicons=true)]()
 </a>
