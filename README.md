@@ -16,18 +16,20 @@ programming languages and technologies I'm proficient in:
 
 ## Contact Me
 
- [![linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://skills.thijs.gg)[https://www.linkedin.com/in/danielmesfin](https://www.linkedin.com/in/danielmesfin)
- [![x](https://skills.thijs.gg/icons?i=twitter)](https://skills.thijs.gg)[@DanielM63043720](https://twitter.com/DanielM63043720)
- [![github](https://skills.thijs.gg/icons?i=github)](https://skills.thijs.gg)[https://github.com/danmesfin](https://github.com/danmesfin)
- Visit my website: [https://danielmesfin.com](https://danielmesfin.com)
+ [![linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/danielmesfin)
+ [![x](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/DanielM63043720)
+ [![github](https://skills.thijs.gg/icons?i=github)](https://github.com/danmesfin)
+ [Visit my website](https://danielmesfin.com)
 
 ## Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danmesfin&count_private=true&theme=tokyonight&showicons=true)]()
+//[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danmesfin&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&langs_count=5&theme=tokyonight)]()
+//[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&langs_count=5&theme=tokyonight)]()
 
-
-![](https://raw.githubusercontent.com/danmesfin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/danmesfin/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<a href="https://github.com/danmesfin/github-stats">
+//<img src="https://github.com/danmesfin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+//<img src="https://github.com/danmesfin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/danmesfin/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/danmesfin/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
