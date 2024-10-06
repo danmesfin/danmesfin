@@ -8,7 +8,7 @@ I'm a full stack dev with a computer engineering degree, rocking the world of we
 
 programming languages and technologies I'm proficient in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## find me on
