@@ -2,13 +2,13 @@
 
 I'm a full stack dev with a computer engineering degree, rocking the world of web and mobile apps. Love sprinkling some machine learning and AI magic into my code. Always hungry for learning, and I bring top-notch problem-solving and collaboration skills to the table. Let's build awesome stuff together! 🚀 #CodeLife
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmesfin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmesfin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
 programming languages and technologies I'm proficient in:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,bootstrap,nodejs,express,react,nextjs,tailwind,redux,postman,mysql,nestjs,cpp,cs,py,java,unity,git,firebase,gcp,docker)](https://skills.thijs.gg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmesfin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## find me on
