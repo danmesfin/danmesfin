@@ -22,11 +22,11 @@ I'm a full stack developer with a computer engineering degree, passionate about 
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/danmesfin/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danmesfin&repo=project-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/danmesfin/covid19-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danmesfin&repo=https://github.com/danmesfin/covid19-tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/danmesfin/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danmesfin&repo=project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/danmesfin/sebl-mobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danmesfin&repo=https://github.com/danmesfin/sebl-mobile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🌱 I'm currently learning
