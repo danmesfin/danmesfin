@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Daniel Mesfin
 
-I'm a full stack developer with a computer engineering degree, passionate about crafting exceptional web and mobile applications. I love integrating machine learning and AI into my projects to create innovative solutions. Always eager to learn and grow, I bring strong problem-solving skills and a collaborative spirit to every project. Let's build something amazing together! 🚀 #CodeLife
+I'm a full stack developer with a computer engineering degree, passionate about crafting exceptional web and mobile applications. I love integrating machine learning and AI into my projects to create innovative solutions. Always eager to learn and grow, I bring strong problem-solving skills and a collaborative spirit to every project. Let's build something amazing together! 🚀 
 
 ## 🔧 Technologies & Tools
 
