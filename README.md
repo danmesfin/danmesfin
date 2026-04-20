@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Daniel Mesfin
 
-I'm a full stack developer with a computer engineering backgroound, passionate about crafting exceptional web and mobile applications. I love integrating machine learning and AI into my projects to create innovative solutions. Always eager to learn and grow. Let's build something amazing together! 🚀 
+I'm a full stack developer with a computer engineering backgroound, passionate about crafting exceptional sofware solution. Programmnig has been my primary tool for my sustainnce for a while now. I love integrating machine learning and AI into my projects to create innovative solutions. Always eager to learn and grow. Let's build something amazing together! 🚀 
 
 ## 🔧 Technologies & Tools
 
